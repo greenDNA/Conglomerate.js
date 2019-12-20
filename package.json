@@ -1,0 +1,19 @@
+{
+  "name": "conglomerate",
+  "version": "1.0.0",
+  "description": "\"Franken\"-website whose purpose is to host several javascript mini projects. Users are able to select a project to browse and interact with a life copy returned by the server to their browser.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greenDNA/Conglomerate.js.git"
+  },
+  "author": "Trayvont",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/greenDNA/Conglomerate.js/issues"
+  },
+  "homepage": "https://github.com/greenDNA/Conglomerate.js#readme"
+}
